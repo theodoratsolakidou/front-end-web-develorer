@@ -1,8 +1,7 @@
 <!DOCTYPE html>
 <html lang="en">
 <head>
-  <meta charset="UTF-8">
-  <title>Humans vs Machines Blog</title>
+
 </head>
 <body>
 <h1>Humans vs. Machines: An AI Odyssey</h1>
