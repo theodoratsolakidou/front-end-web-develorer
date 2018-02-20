@@ -1,0 +1,67 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<meta charset="utf-8">
+	<title>Animal Trading Cards</title>
+	<style>
+	.card{
+		margin: auto;
+		width: 400px;
+		border: 1px solid #bcbfc4;
+		border-radius: 5px;
+		box-shadow: 10px 10px 8px #bcbfc4;
+		background-color: #F5F5DC
+	}
+	h3{
+		border-style: none;
+		text-align: center;
+		font-size: 40px;
+	}
+	img{
+		border-style: groove;
+		width: 320px;
+		padding: 30px;
+		display: block;
+		margin: 10px;
+		border: 1px solid #bcbfc4;
+		background-image: url(https://image.freepik.com/free-vector/hexagonal-abstract-background_1409-353.jpg);
+	}
+	p{
+		border-style: none;
+		font-style: italic;
+		padding: 10px;
+	}
+	li{
+
+		font-weight: bold;
+		list-style-type: none;
+	}
+	.list{
+		border:200px;
+	}
+	</style>
+	  <link href="styles.css" rel="stylesheet">
+</head>
+<body>
+	<div class="card">
+		<!-- your favorite animal's name goes here -->
+		<h3>Snow Leopard</h3>
+		<!-- your favorite animal's image goes here -->
+		<img src="http://jimmymacsupport.com/wp-content/uploads/2014/03/apple_mac_os_x_snow_leopard_for_mac512x512.png" alt="Snow Leopard">
+		<div class="text">
+			<!-- your favorite animal's interesting fact goes here -->
+			<p>Snow Leopards are big cats that live in central and south Asia. These beautiful animals are endangered due to habitat loss and hunting. </p>
+			<ul>
+				<!-- your favorite animal's list items go here -->
+				<li><span class="list">Binomial name</span>: Panthera uncia</li>
+				<li><span class="list">Nickname</span>:Ghost of the mountains </li>
+				<li><span class="list">Avarage life </span>: 10-12 years old</li>
+				<li><span class="list">Conservation status</span>: Threatened</li>
+			</ul>
+			<!-- your favorite animal's description goes here -->
+			<p>The snow leopard, known for its beautiful, thick fur, has a white, yellowish or soft gray coat with ringed spots of black on brown. The markings help camouflage it from prey. With their thick coats, heavy fur-lined tails and paws covered with fur, snow leopards are perfectly adapted to the cold and dry habitats in which they live.</p>
+		</div>
+	</div>
+
+</body>
+</html>
